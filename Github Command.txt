@@ -1,0 +1,14 @@
+cd C:\Users\Administrator\Documents\GitHub\uidesign\kendriya-vidyalaya
+
+1. git status
+2. if new file is added then: git add .
+3. git commit –am “message”
+4. git push origin master
+
+
+or
+
+git add .
+git commit -m "message"
+
+Deleted :  git commit -am "deleted KV-Merge folder"
